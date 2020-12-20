@@ -16,7 +16,7 @@
 <img align="left" alt="C" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
 <img align="left" alt="Sass" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png"/>
 <img align="left" alt="php" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
-<img align="left" alt="jQuery" height="40px" src=""/>
+<!-- <img align="left" alt="jQuery" height="40px" src=""/> -->
 
 
 
