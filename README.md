@@ -5,19 +5,19 @@
 - Pořád se učím něco nového
 
 ## Technologie s kterými si hraju:
-<div style="width:100%;background-color:#fff;">
+<div style="width:100%;background-color:#f00;" makrdown="1">
 
 <img align="left" alt="C#" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/csharp-1-1175241.png" />
 <img align="left" alt="C" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 
-<div style="height:40px;border-left:2px solid gray;"></div>
+<div style="height:40px;border-left:5px solid gray;"></div>
 
 <img align="left" alt="HTML" height="40px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png"/>
 <img align="left" alt="CSS" height="40px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png"/>
-<img align="left" alt="Sass" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png"/>
-<img align="left" alt="php" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>
 <img align="left" alt="JavaScript" height="40px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png"/>
 <img align="left" alt="jQuery" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png"/>
+<img align="left" alt="Sass" height="40px" src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png"/>
+<img align="left" alt="php" height="40px" src="https://www.php.net/images/logos/new-php-logo.svg"/>\
 
 <div style="height:40px;border-left:2px solid gray;"></div>
 
