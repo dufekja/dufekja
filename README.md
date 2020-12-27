@@ -2,7 +2,9 @@
 
 ### Jsem Student a když se zadaří, tak taky Vývojář
 - Studuji vývoj aplikací a her 
-- Pořád se učím něco nového
+- Moje denní kafe, krom teda samotné kávy, jsou nové informace
+- Dokážu se velmi rychle nadchnout pro věc
+- Osobně si myslím, že jsem velice adaptivní
 
 ## Technologie s kterými si hraju:
 
