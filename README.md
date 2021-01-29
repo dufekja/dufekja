@@ -2,11 +2,12 @@
 
 ### Jsem Student a když se zadaří, tak taky Vývojář
 - Studuji vývoj aplikací a her 
-- Moje denní kafe, krom teda samotné kávy, jsou nové informace
+- Moje denní kafe, krom teda samotné kávy, jsou nové technologie
 - Dokážu se velmi rychle nadchnout pro věc
-- Osobně si myslím, že jsem velice adaptivní
+- Osobně si myslím, že jsem velice adaptivní "zvládám od všeho trochu"
+- Bitcoin maximalist
 
-## Technologie s kterými si hraju:
+## Technologie s kterými si právě hraju:
 
 <img align="left" alt="Python" height="40px" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
 
