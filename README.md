@@ -5,7 +5,7 @@
 - Moje denní kafe, krom teda samotné kávy, jsou nové technologie
 - Dokážu se velmi rychle nadchnout pro věc
 - Osobně si myslím, že jsem velice adaptivní "zvládám od všeho trochu"
-- Bitcoin maximalist <img alt="BTC" height="20px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/2000px-BTC_Logo.svg.png"/>
+- <img alt="BTC" height="18px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/2000px-BTC_Logo.svg.png"/> maximalist 
 ## Technologie s kterými si právě hraju:
 
 <img align="left" alt="Python" height="40px" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
