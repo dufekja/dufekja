@@ -1,6 +1,6 @@
 ## Vítejte na mém profilu
 
-### Jsem Student a když se zadaří, tak taky Vývojář
+### Jsem studentem a občas také Vývojářem..
 - Studuji vývoj aplikací a her 
 - Moje denní kafe, krom teda samotné kávy, jsou nové technologie
 - Dokážu se velmi rychle nadchnout pro věc
