@@ -1,10 +1,9 @@
 ## Vítejte na mém profilu
 
-### Jsem studentem a občas také Vývojářem..
-- Studuji vývoj aplikací a her 
-- Moje denní kafe, krom teda samotné kávy, jsou nové technologie
-- Dokážu se velmi rychle nadchnout pro věc
-- Osobně si myslím, že jsem velice adaptivní "zvládám od všeho trochu"
+### Studuji a občas něco bouchám do klávesnice..
+- Momentálně studuji vývoj aplikací a her 
+- Nadšenec do technologií
+- Zvládám o všeho trochu
 - <img alt="BTC" height="18px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/BTC_Logo.svg/2000px-BTC_Logo.svg.png"/> such value much money 
 ## Technologie s kterými si právě hraju:
 
