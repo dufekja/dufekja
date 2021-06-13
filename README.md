@@ -1,6 +1,6 @@
 ## Vítejte na mém profilu
 
-### Studuji a občas něco bouchám do klávesnice..
+### Občas něco bouchám do klávesnice..
 - Momentálně studuji vývoj aplikací a her 
 - Nadšenec do technologií
 - Zvládám o všeho trochu
