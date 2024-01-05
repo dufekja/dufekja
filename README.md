@@ -8,7 +8,3 @@ I'm interested in:
 - **Mathematics**
 - **:sparkles: Learning new things :sparkles:**
 - **"Blazingly fast" languages**
-
-There's a cute photo with a cat as gift for reading. :wink:
-
-![cat image](cat.jpg)
